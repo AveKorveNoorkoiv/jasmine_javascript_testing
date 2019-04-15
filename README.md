@@ -1,1 +1,2 @@
-# jasmine_javascript_testing
+# JavaScript Testing
+Practice testing your javascript applications using [Jasmine!](https://jasmine.github.io/)
